@@ -10,8 +10,8 @@ Web developer | Aspiring full stack developer
 * 🤝  I'm open to collaborating on Web Applications
 * ⚡  I love coffee
 
-<a href="https://www.twitter.com/kris_0208" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kris_0208?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/kris__eth" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/kris__eth?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
