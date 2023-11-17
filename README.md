@@ -1,12 +1,12 @@
 Hi 👋 My name is kris
 =====================
 
-Web developer | Aspiring full stack developer
+full stack developer
 ---------------------------------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kris28@outlook.in](mailto:kris28@outlook.in)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning GO
 * 🤝  I'm open to collaborating on Web Applications
 * ⚡  I love coffee
 
