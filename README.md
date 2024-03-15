@@ -1,5 +1,8 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prediatorr&theme=dracula" alt="prediatorr" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kris-2804&theme=dracula" alt="krisbiradar" />
+  </a> </p>
+  <img src="https://komarev.com/ghpvc/?username=kris-2804&style=flat-square" alt="krisbiradar" />
+<a href=""
 Hi 👋 My name is kris
 =====================
 
