@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prediatorr&theme=dracula" alt="prediatorr" /></a> </p>
+
 Hi 👋 My name is kris
 =====================
 
